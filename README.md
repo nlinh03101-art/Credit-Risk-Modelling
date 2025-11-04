@@ -76,7 +76,7 @@ The R Markdown source file (`.Rmd`) is included for reproducibility.
 **Ngoc Linh Dao**  
 *MSc in Management, Economics and Data Science*  
 Focus: Applied analytics, econometrics, and data-driven decision optimization.  
-🔗 [Main Portfolio]([https://github.com/yourusername/Linh-portfolio])
+🔗 [Main Portfolio](https://github.com/yourusername/Linh-portfolio)
 
 ---
 
