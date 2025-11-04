@@ -66,7 +66,7 @@ For an interactive and readable report:
 - View the rendered HTML file directly:  
   👉 [Credit_Risk_Modeling.html](./Credit_Risk_Modeling.html)  
 - Or access the analysis via **GitHub Pages**:  
-  👉 https://nlinh03101-art.github.io/Credit-Risk-Modeling/
+  👉 [https://nlinh03101-art.github.io/Credit-Risk-Modeling/](https://github.com/nlinh03101-art/Credit-Risk-Modelling)
 
 The R Markdown source file (`.Rmd`) is included for reproducibility.
 
@@ -76,7 +76,7 @@ The R Markdown source file (`.Rmd`) is included for reproducibility.
 **Ngoc Linh Dao**  
 *MSc in Management, Economics and Data Science*  
 Focus: Applied analytics, econometrics, and data-driven decision optimization.  
-🔗 [Main Portfolio](https://github.com/yourusername/Linh-portfolio)
+🔗 [Main Portfolio](https://github.com/nlinh03101-art/Linh_portfolio)
 
 ---
 
