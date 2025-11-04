@@ -50,9 +50,9 @@ A highly qualified, single, foreign female borrower with a €3,000 loan over 18
 ---
 
 ## Repository Structure
-├── Credit_Risk_Modeling.Rmd # R Markdown script
+├── Credit_Risk_Modeling.Rmd # RMarkdown script
 
-├── Credit_Risk_Modeling.html # Knitted report (readable version)
+├── Credit_Risk_Modeling.html # Knitted report for a more readable version
 
 ├── credit_data.csv # Dataset 
 
