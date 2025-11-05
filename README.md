@@ -64,9 +64,7 @@ A highly qualified, single, foreign female borrower with a €3,000 loan over 18
 ## How to View
 For an interactive and readable report:
 - View the rendered HTML file directly:  
-  👉 [Credit_Risk_Modelling.html](./Credit_Risk_Modelling.html)  
-- Or access the analysis via **GitHub Pages**:  
-  👉 [https://nlinh03101-art.github.io/Credit-Risk-Modelling/](https://github.com/nlinh03101-art/Credit-Risk-Modelling)
+  👉 [https://nlinh03101-art.github.io/Credit-Risk-Modelling/]
 
 The R Markdown source file (`.Rmd`) is included for reproducibility.
 
